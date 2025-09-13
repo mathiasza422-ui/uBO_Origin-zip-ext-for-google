@@ -70,9 +70,10 @@
 - ✅ Manual installation via **Developer Mode** (unsupported long-term).
 - ✅ Switch to **Brave Browser** (built-in adblocker).
 - ✅ Use Chromium based browsers for uploading the zip ej; Ecosia Browser.
+Download here https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fmathiasza422-ui%2FuBO_Origin-zip-ext-for-google
 ---
 
-## **7. Conclusion**
+## **8. Conclusion**
 - uBO's **GPLv3 license** ensures it remains free and open.
 - Google's **proprietary licensing** and policies increasingly restrict adblocking.
 - Users must choose browsers that support user freedom (e.g., Firefox).
