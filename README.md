@@ -69,8 +69,7 @@
 - ✅ Use **uBO Lite** (limited Manifest V3 version).
 - ✅ Manual installation via **Developer Mode** (unsupported long-term).
 - ✅ Switch to **Brave Browser** (built-in adblocker).
-- ✅ Use Chromium based browsers; ej.Ecosia Browser or another.
-
+- ✅ Use Chromium based browsers for uploading the zip ej; Ecosia Browser.
 ---
 
 ## **7. Conclusion**
